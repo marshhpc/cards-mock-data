@@ -8,7 +8,8 @@
     "description": "An example of Description",
     "allergies": "An example of the allergies in the dish",
     "price": 30,
-    "createdAt": 15917251478689
+    "createdAt": 15917251478689,
+    "imageUrl": "https://st2.depositphotos.com/2287637/7818/i/450/depositphotos_78184718-stock-photo-grilled-steak-ribeye-with-french.jpg"
   },
   {
     "id": "16672b8b-6946-4016-b7b8-f450b9118act",
@@ -19,7 +20,8 @@
     "description": "An example of Description",
     "allergies": "An example of the allergies in the dish",
     "price": 40,
-    "createdAt": 15917251471114
+    "createdAt": 15917251471114,
+    "imageUrl": "https://st2.depositphotos.com/2287637/7818/i/450/depositphotos_78184718-stock-photo-grilled-steak-ribeye-with-french.jpg"
   },
   {
     "id": "16672b8b-6946-4016-b7b8-f450b9118het",
@@ -30,7 +32,8 @@
     "description": "An example of Description",
     "allergies": "An example of the allergies in the dish",
     "price": 80,
-    "createdAt": 15917251471115
+    "createdAt": 15917251471115,
+    "imageUrl": "https://st2.depositphotos.com/2287637/7818/i/450/depositphotos_78184718-stock-photo-grilled-steak-ribeye-with-french.jpg"
   },
   {
     "id": "16672b8b-6946-4016-b7b8-f450b9118akk",
@@ -41,6 +44,7 @@
     "description": "An example of Description",
     "allergies": "An example of the allergies in the dish",
     "price": 25,
-    "createdAt": 15917251471113
+    "createdAt": 15917251471113,
+    "imageUrl": "https://st2.depositphotos.com/2287637/7818/i/450/depositphotos_78184718-stock-photo-grilled-steak-ribeye-with-french.jpg"
   }
 ]
